@@ -3,7 +3,7 @@
 #include<time.h>
 using namespace std;
 
-//전역변수ㅇ
+//전역변수
 int input_n;
 int cnt = 0;
 char print_board;
